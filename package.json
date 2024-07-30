@@ -1,0 +1,28 @@
+{
+  "name": "getapi-results",
+  "version": "1.0.0",
+  "description": "A simple and versatile utility for fetching data from APIs. Ideal for use in both standard JavaScript projects and React applications. fetchapi makes it easy to handle HTTP requests and errors, offering a straightforward approach to integrate remote data into your apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAMCHAUHANPUNEET/getapi-results.git"
+  },
+  "keywords": [
+    "fetch",
+    "api",
+    "data-fetching",
+    "api-request",
+    "error-handling",
+    "promise",
+    "react."
+  ],
+  "author": "Puneet Chauhan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/IAMCHAUHANPUNEET/getapi-results/issues"
+  },
+  "homepage": "https://github.com/IAMCHAUHANPUNEET/getapi-results#readme"
+}
